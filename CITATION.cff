@@ -13,6 +13,8 @@ authors:
     email: nathan.ellsworth@utdallas.edu
     affiliation: The University of Texas at Dallas
     orcid: 'https://orcid.org/0000-0002-3461-724X'
+repository-code: 'https://github.com/utdal/OpenNOP'
+url: 'https://labs.utdallas.edu/opnear/'
 keywords:
   - OpenROADM
   - NETCONF

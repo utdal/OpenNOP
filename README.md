@@ -1,9 +1,9 @@
 # OpenNOP
 Network Observability Platform for monitoring of OpenROADM-based multi layer optical networks
 
-Release pending final departmental review
+Release pending final university review
 
-docker-compose script
-noise injection script
-colab python code
-data files
+* docker-compose script
+* noise injection script
+* colab python code
+* data files
